@@ -1,0 +1,22 @@
+# Nmap Security Scan Report 😃
+**Target**: Local Machine (127.0.0.1)  
+**Date**: $(date +%Y-%m-%d)  
+
+## Critical Findings
+![Scan Results](YOUR_IMAGE_URL_HERE)
+
+## Vulnerable Ports
+| Port | Service | Risk |
+|------|---------|------|
+| 135 | MSRPC | 🔴 High |
+| 445 | SMB | 🔴 High |
+| 5357 | WSDAPI | 🟠 Medium |
+| 5432 | PostgreSQL | 🟠 Medium |
+
+## Immediate Actions
+1. Block ports 135/445 in Windows Firewall
+2. Disable unused services
+3. Scan regularly for open ports
+
+## Full Results
+[View Raw Scan Data](nmap-scan-results.txt)
