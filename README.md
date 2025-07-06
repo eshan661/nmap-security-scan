@@ -1,6 +1,6 @@
 # Nmap Security Scan Report 😃
 **Target**: Local Machine (127.0.0.1)  
-**Date**: $(date +%Y-%m-%d)  
+**Date**: $(date 2025-06-07)  
 
 ## Critical Findings
 ![Scan Results](YOUR_IMAGE_URL_HERE)
