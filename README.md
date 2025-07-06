@@ -19,4 +19,4 @@
 3. Scan regularly for open ports
 
 ## Full Results
-[View Raw Scan Data](nmap-scan-results.txt)
+[View Raw Scan Data](nmap_scan_results.txt)
