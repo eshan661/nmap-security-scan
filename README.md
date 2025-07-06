@@ -3,7 +3,7 @@
 **Date**: $(date 2025-06-07)  
 
 ## Critical Findings
-![Scan Results](YOUR_IMAGE_URL_HERE)
+![Scan Results](https://github.com/eshan661/nmap-security-scan/blob/main/scan%20results.png)
 
 ## Vulnerable Ports
 | Port | Service | Risk |
