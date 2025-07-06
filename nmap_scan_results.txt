@@ -1,0 +1,11 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-07-06 12:21 +0500
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00082s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+5432/tcp open  postgresql
+
+Nmap done: 1 IP address (1 host up) scanned in 0.53 seconds
